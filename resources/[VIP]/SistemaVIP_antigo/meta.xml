@@ -1,0 +1,6 @@
+<meta>
+    <info author="GFORCEMODSMTA" name="Painel VIP" version="1.0.0" />
+	<script src="server.lua" type="server" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<file src="Arquivos/Cadeado.png" />
+</meta>

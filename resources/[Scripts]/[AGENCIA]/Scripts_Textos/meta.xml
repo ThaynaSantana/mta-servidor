@@ -1,0 +1,8 @@
+<meta>
+	<info author="GFORCEMODSMTA" version="1.0.0" name="Script textos" />
+	<script src="server.lua" type="server" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+	<export function="createNewDxMessage" type="client"/>
+	<export function="createNewDxMessage" type="server"/>
+	<export function="createNewDxMessageLogin" type="server"/>
+</meta>

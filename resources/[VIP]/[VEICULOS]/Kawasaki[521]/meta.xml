@@ -1,0 +1,6 @@
+<meta>
+	<info type="ST-Mods" name="Convertido por" author="TenorioLoko" description="" version="1" />
+	<file src="TenorioLoko.txd" />
+	<file src="TenorioLoko.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

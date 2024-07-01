@@ -1,0 +1,9 @@
+<meta>
+    <info author = 'Bella Vista RP' name = 'Alugar Bicicleta'/>
+
+    <script src = 'mainG.lua' type = 'shared'/>
+    <script src = 'mainC.lua' type = 'client' cache = 'false'/>
+    <script src = 'mainS.lua' type = 'server'/>
+
+    <file   src = 'me/Base.png'/>
+</meta>

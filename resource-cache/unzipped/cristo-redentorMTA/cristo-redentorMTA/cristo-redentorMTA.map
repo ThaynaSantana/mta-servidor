@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <object id="object (satdishsml) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1596" scale="1" doublesided="false" collisions="true" posX="1425.7" posY="-803.20001" posZ="105" rotX="0" rotY="0" rotZ="238"></object>
+    <removeWorldObject id="removeWorldObject (VineSign1_cunte01) (1)" radius="45.724674" interior="-1" model="13831" lodModel="0" posX="1413.4141" posY="-804.74219" posZ="83.4375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (VineSign1_cunte) (1)" radius="43.415749" interior="-1" model="13722" lodModel="13759" posX="1413.4141" posY="-804.74219" posZ="83.4375" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

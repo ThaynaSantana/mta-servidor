@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="mega mods" type="misc" name="mega mods" description="mega mods" />
+     <script src="script.lua" type="client" />
+     <file src="nrg500.txd" />
+     <file src="nrg500.dff" />
+</meta>

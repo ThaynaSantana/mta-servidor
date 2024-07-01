@@ -1,0 +1,5 @@
+<meta>
+	<info author="Thayna" name="Jogador Morreu aparece no chat"/>
+	
+	<script src="server.lua" type="server" />
+</meta>

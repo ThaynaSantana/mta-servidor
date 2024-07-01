@@ -1,0 +1,22 @@
+<meta>
+    <info author = 'vz#5596' name = 'moren1n_clothesShop'/>
+
+    <oop>true</oop>
+
+    <script src = 'shared.lua' type = 'shared' cache = 'false'/>
+
+    <script src = 'scroll.lua' type = 'client' cache = 'false'/>
+    <script src = 'client.lua' type = 'client' cache = 'false'/>
+
+    <script src = 'server.lua' type = 'server'/>
+
+    <file src = 'assets/images/mouse1.png'/>
+    <file src = 'assets/images/scroll.png'/>
+    <file src = 'assets/images/banner.png'/>
+    <file src = 'assets/images/bigCancel.png'/>
+    <file src = 'assets/images/cancel.png'/>
+    <file src = 'assets/images/buy.png'/>
+
+    <file src = 'assets/fonts/RobotoCondensed-Light.ttf'/>
+    <file src = 'assets/fonts/RobotoCondensed-Regular.ttf'/>
+</meta>

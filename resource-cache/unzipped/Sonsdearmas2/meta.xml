@@ -1,0 +1,33 @@
+<meta>
+    
+
+<info author='Meneses' version='4' name='Weapons  sounds' description=' new sounds and movements on shoot' type='script' />
+
+	
+	
+<script src="sounds_c.lua" type="client"/>
+	
+		
+
+	
+	   
+<file src="sounds/weap/Colt45.mp3" />
+	   
+<file src="sounds/weap/Deagle.mp3" />
+	   
+<file src="sounds/weap/Silenced.mp3" />
+	   
+<file src="sounds/weap/Shotgun.mp3" />
+	   
+<file src="sounds/weap/Sawed-Off.mp3" />
+	   
+<file src="sounds/weap/M4.wav" />
+	   
+<file src="sounds/weap/Sniper.mp3" />
+	    
+	  
+
+
+
+
+</meta>

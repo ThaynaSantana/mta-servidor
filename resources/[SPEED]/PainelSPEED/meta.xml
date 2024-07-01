@@ -1,0 +1,6 @@
+<meta>
+     <info author="BR DanielGamer (youtube.com/brdanielgamer)" />
+     <script src="client.lua" type="client"/>
+     <script src="server.lua" type="server"/>
+
+</meta>

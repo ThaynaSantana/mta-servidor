@@ -1,0 +1,13 @@
+<zs>
+    <min_mta_version server = "1.5.2-9.07903" client = "1.5.2-9.07903"/>
+    <script src = "settings.lua" type = "shared" cache = "false"/>
+    <script src = "assets/client-side.zs" type = "client" cache = "false"/>
+    <script src = "assets/server-side.zs" type = "server" cache = "false"/>
+    <file src = "assets/fonts/Poppins-Bold.ttf" cache = "false"/>
+    <file src = "assets/fonts/Poppins-Medium.ttf" cache = "false"/>
+    <file src = "assets/fonts/Roboto-Medium.ttf" cache = "false"/>
+    <file src = "assets/fonts/Roboto-Regular.ttf" cache = "false"/>
+    <file src = "assets/images/play.png" cache = "false"/>
+    <file src = "assets/images/background.png" cache = "false"/>
+    <file src = "assets/images/items/alcool.png" cache = "false"/>
+</zs>

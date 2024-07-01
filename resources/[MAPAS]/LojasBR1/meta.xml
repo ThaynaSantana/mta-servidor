@@ -1,0 +1,5 @@
+<meta>
+	<info type="misc" name="LOJAS" author="GM ZICO MTA" description="Mods Br MTa" version="1.4.1" />
+	<file src="data/templae2land.txd" />
+	<script type="client" src="replace.luac" />
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+    <script src="client.lua" type="client" cache="false" />
+   <script src="server.lua" type="server" cache="false" />
+   <script src="Salvar_Dados.lua" type="server" cache="false" />
+		<file src="0.png"/>
+		<file src="3.png"/>
+		<file src="31.png"/>
+		<file src="font/icons.ttf"/>
+		
+		<file src="font/font.ttf" cache="false" />
+	<file src="font/font1.ttf" cache="false" />
+	<file src="font/OpenSans-Bold.ttf" cache="false" />
+	<file src="font/fontNick.ttf" cache="false" />
+</meta>

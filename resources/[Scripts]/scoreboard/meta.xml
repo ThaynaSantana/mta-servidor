@@ -1,0 +1,12 @@
+<meta>    
+    <script src="client.lua" type="client" cache="false"/>
+
+    <file src="dosyalar/tip5.ttf" />
+    <file src="dosyalar/tip2.ttf" />
+    <file src="dosyalar/tip3.ttf" />
+    <file src="dosyalar/tip4.ttf" />
+    <file src="dosyalar/tip1.otf" />
+ 	<file src="dosyalar/logo.png" />
+	<file src="dosyalar/aktif.png" />
+	<file src="dosyalar/deaktif.png" />
+</meta>

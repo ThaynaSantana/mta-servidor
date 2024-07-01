@@ -1,0 +1,44 @@
+<meta>
+    
+    <info author = 'Ryan' version = '1.0' name = 'Encomenda Exclusiva Desk Codes' description = 'https://deskcodes.store/' />
+    
+    <!-- Arquivos -->
+    
+    <script src = 'Ry4nG.lua' type = 'shared' cache = 'false'/>
+    <script src = 'nui/main/Ry4nU.lua' type = 'client' cache = 'false'/> 
+    <script src = 'shared.lua' type = 'client' cache = 'false'/> 
+    <script src = 'nui/main/Ry4nC.lua' type = 'client' cache = 'false'/>  
+    <script src = 'nui/main/Ry4nS.lua' type = 'server' cache = 'false'/> 
+    
+    <!-- Fonts-->
+    
+    <file src = 'nui/fonts/medium.ttf' cache = 'false' />
+    <file src="nui/fonts/Urbanist-SemiBold.ttf"/>
+
+    <!-- Interface -->
+
+    <file src="nui/interface/aim/1.png"/>
+    <file src="nui/interface/aim/2.png"/>
+    <file src="nui/interface/aim/3.png"/>
+    <file src="nui/interface/aim/4.png"/>
+    <file src="nui/interface/aim/5.png"/>
+    <file src="nui/interface/aim/6.png"/>
+    <file src="nui/interface/aim/7.png"/>
+    <file src="nui/interface/aim/8.png"/>
+    <file src="nui/interface/aim/9.png"/>
+
+    <file src="nui/interface/aimweapon/1.png"/>
+    <file src="nui/interface/aimweapon/2.png"/>
+    <file src="nui/interface/aimweapon/3.png"/>
+    <file src="nui/interface/aimweapon/4.png"/>
+    <file src="nui/interface/aimweapon/5.png"/>
+    <file src="nui/interface/aimweapon/6.png"/>
+    <file src="nui/interface/aimweapon/7.png"/>
+    <file src="nui/interface/aimweapon/8.png"/>
+    <file src="nui/interface/aimweapon/9.png"/>
+
+    <!-- Versão -->
+
+    <min_mta_version server = '1.5.8-9.20979' ></min_mta_version>
+
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<info author="Thayna" name="script que liga o motor do veiculo" />
+	
+	<script src="server.lua" type="server" />
+</meta>

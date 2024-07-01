@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="FzN" type="misc" name="Garistyle" description="Garistyle" />
+     <script src="script.lua" type="client" />
+     <file src="Garistyle.txd" />
+     <file src="Garistyle.dff" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+<info name='CAMINHAO-QUALIFICADO' type='misc' />
+<script src='script.lua' type='client' />
+<file src='dft30.txd' />
+<file src='dft30.dff' />
+</meta>

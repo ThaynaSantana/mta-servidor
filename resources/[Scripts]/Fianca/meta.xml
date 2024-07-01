@@ -1,0 +1,8 @@
+<meta>
+    <info author="AirNewSCR (fb.com/AirNewSCR)" />
+    <script src="AirNew_c.lua" type="client" cache="false" />
+	<script src="AirNew_s.lua" type="server" cache="false" />
+    <map src="Arquivos/AirNewSCR.map" dimension="0"></map>
+    <script src="Arquivos/mapEditorScriptingExtension_s.lua" type="server" cache="false" ></script>
+    <script src="Arquivos/mapEditorScriptingExtension_c.lua" type="client" validate="false" cache="false" ></script>
+</meta>

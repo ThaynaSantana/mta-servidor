@@ -1,0 +1,5 @@
+<meta>
+	<info author="GFORCEMODSMTA" name="Status" version="1.0.0"/>
+	<script src="defaultstats.lua"/>
+	<oop>true</oop>
+</meta>

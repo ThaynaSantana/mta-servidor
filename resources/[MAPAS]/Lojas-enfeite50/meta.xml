@@ -1,0 +1,6 @@
+<meta>
+    <info author="[M]ister" description="Ponto de Onibus do RJ" version="1.3" type="script" />
+    <script src="mod.lua" type="client" />
+    <file src="bustopm.txd" />
+
+</meta>

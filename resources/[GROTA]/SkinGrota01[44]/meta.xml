@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Shelby" type="misc" name="Grota_Ryder2" description="Grota_Ryder2" />
+     <script src="script.lua" type="client" />
+     <file src="cc.txd" />
+     <file src="ryder2.dff" />
+</meta>

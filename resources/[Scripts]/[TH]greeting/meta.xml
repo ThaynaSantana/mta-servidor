@@ -1,0 +1,6 @@
+<meta>
+	<info author="Thayna" name="Bem-vindo" description="Mensagem de boas vindas ao jogador" />
+	
+	<script src="server.lua" type="server" />
+	
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+	<info author="Thayna" version="1.0 name="Missao Logistica Militar" />
+
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server" cache="false" />
+
+</meta>

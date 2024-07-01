@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="thayna" type="misc" name="caminhao de lixo" description="514" />
+     <script src="script.lua" type="client" />
+     <file src="408.txd" />
+     <file src="408.dff" />
+</meta>

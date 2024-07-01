@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="GFORCEMODSMTA" name="Bugatti Divo" />
+     <script src="script.lua" type="client" />
+     <file src="541.txd" />
+     <file src="541.dff" />
+</meta>

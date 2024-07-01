@@ -1,0 +1,6 @@
+﻿<meta>
+	 <info author="GFORCEMODSMTA" name="Skin do Kratos para VIP" version="1.0.0"/>
+     <script src="script.lua" type="client" />
+     <file src="300.txd" />
+     <file src="300.dff" />
+</meta>

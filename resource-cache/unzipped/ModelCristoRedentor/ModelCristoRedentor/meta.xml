@@ -1,0 +1,6 @@
+<meta>
+     <script src="main.lua" type="client" />
+     <file src="cristo.dff" />
+     <file src="cristo.txd" />
+     <file src="cristo.col" />
+</meta>

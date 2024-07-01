@@ -1,0 +1,17 @@
+<meta>
+
+    <script src = 'config.lua' type = 'shared' cache = false />
+    <script src = 'main/server.lua' type = 'server' cache = false />
+    <script src = 'main/client.lua' type = 'client' cache = false />
+    
+
+    <file src = '/assets/background.png' />
+    <file src = '/assets/baseIcons.png' />
+    <file src = '/assets/baseButtons.png' />
+    <file src = '/assets/buttons.png' />
+    <file src = '/assets/police.png' />
+    <file src = '/assets/car.png' />
+    <file src = '/assets/armor.png' />
+    <file src = '/assets/collect.png' />
+
+</meta>

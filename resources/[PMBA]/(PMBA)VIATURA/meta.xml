@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Nextel" type="misc" name="[PMBA]Viatura" description="[PMBA]Viatura" />
+     <script src="script.lua" type="client" />
+     <file src="copcarsf.txd" />
+     <file src="copcarsf.dff" />
+</meta>

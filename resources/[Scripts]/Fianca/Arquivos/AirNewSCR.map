@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (wglasssmash) (1)" breakable="false" interior="6" collisions="true" alpha="255" model="1649" doublesided="false" scale="1.2" dimension="0" posX="250.7002" posY="67.79981" posZ="1004.7" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (wglasssmash) (5)" breakable="false" interior="6" collisions="true" alpha="255" model="1649" doublesided="false" scale="1.2" dimension="0" posX="250.7002" posY="67.79981" posZ="1004.7" rotX="0" rotY="0" rotZ="270"></object>
+</map>

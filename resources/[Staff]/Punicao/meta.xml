@@ -1,0 +1,41 @@
+<meta>
+    <oop>true</oop>
+    <min_mta_version server = "1.5.8-9.20979" client = "1.5.8-9.20979" />
+    <info author="squady" version="1.0" name="Script feito por @1squady - [MOD]Punishment" />
+
+    <!-- GFX's -->
+    <file src="assets/gfx/bg.png" />
+    <file src="assets/gfx/bg_button.png" />
+    <file src="assets/gfx/bg_icon-search.png" />
+    <file src="assets/gfx/bg_search.png" />
+    <file src="assets/gfx/icon_clock.png" />
+    <file src="assets/gfx/icon_eclipse.png" />
+    <file src="assets/gfx/icon_identy.png" />
+    <file src="assets/gfx/icon_list.png" />
+    <file src="assets/gfx/icon_pen.png" />
+    <file src="assets/gfx/icon_search.png" />
+    <file src="assets/gfx/icon_terms.png" />
+    <file src="assets/gfx/icon_user.png" />
+    <file src="assets/gfx/bg_prison.png" />
+    <file src="assets/gfx/bg_grid.png" />
+
+    <!-- FONT's -->
+    <file src="assets/fonts/Roboto-Medium.ttf" />
+    <file src="assets/fonts/Roboto-Regular.ttf" />
+
+    <!-- SCRIPT's -->
+    <script src="config.lua" type="shared" cache="false" />
+    <script src="assets/main/server.lua" />
+    <script src="assets/main/client.lua" type="client" cache="false" />
+    <script src="assets/main/prison.lua" type="client" cache="false" />
+
+    <!-- UTILS -->
+    <script src="assets/utils/async.lua" />
+    <script src="assets/utils/c-utils.lua" type="client" />
+    <script src="assets/utils/s-utils.lua" />
+
+    <export function="getAllBans" type="server"/>
+    <export function="getPunishs" type="server"/>
+    <export function="getStatePunish" type="server"/>
+    <export function="removeBans" type="server"/>
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+    <script src="config.cfg" type="shared" cache="false"/>
+    <script src="code/Labz_C.lua" type="client" cache="false"/>     
+    <script src="code/Labz_S.lua" type="server"/>     
+
+    <!-- FILES -->
+
+    <file src="files/fontt.ttf"/> 
+    <file src="files/fontt2.ttf"/>     
+    <file src="files/fontt3.ttf"/>     
+    <file src="files/fontt4.ttf"/>     
+    <file src="files/fontt5.ttf"/>     
+    <file src="files/fontt6.ttf"/>        
+
+</meta>

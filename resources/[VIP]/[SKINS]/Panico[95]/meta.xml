@@ -1,0 +1,6 @@
+<meta>
+	<info author="GFORCEMODSMTA" name="Skin de Pânico do VIP" version="1.0.0"/>
+	<script src="script.lua" type="client" />
+	<file src="95.txd" />
+	<file src="95.dff" />
+</meta>

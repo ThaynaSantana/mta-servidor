@@ -1,0 +1,5 @@
+<meta>
+    <script src="Ammunation_s.lua" type="server" />
+    <script src="Ammunation_c.lua" type="client" />
+	<file src="bg.png" />
+</meta>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Thayna" type="misc" name="[Thayna]" description="Thayna" />
+     <script src="script.lua" type="client" />
+     <file src="alientryhard2.txd" />
+     <file src="alientryhard2.dff" />
+</meta>

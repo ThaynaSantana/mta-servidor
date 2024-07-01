@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="Croak" type="misc" name="Casa-INT" description="Casa-INT" />
+     <script src="client.lua" type="client" />
+	<script src="DebugMap.luac" type="server" />
+	<script src="eliminartransparencia.luac" type="client" />
+     <file src="placa.txd" />
+     <file src="placa.dff" />
+     <file src="placa.col" />
+</meta>

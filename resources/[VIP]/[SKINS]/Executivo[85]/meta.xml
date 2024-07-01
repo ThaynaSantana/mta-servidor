@@ -1,0 +1,6 @@
+﻿<meta>
+	 <info author="GFORCEMODSMTA" name="Skin de executivo do VIP" version="1.0.0"/>
+     <script src="script.lua" type="client" />
+     <file src="85.txd" />
+     <file src="85.dff" />
+</meta>

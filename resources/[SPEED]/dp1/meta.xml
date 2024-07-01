@@ -1,0 +1,23 @@
+<meta>
+    <oop>true</oop>
+    <script src="LukC.lua" type="client" />
+    
+    <file src="models/DP.dff" />
+    <file src="models/DP.txd" />
+    <file src="models/DP.col" />
+	
+	<file src="models/DP2.dff" />
+	<file src="models/DP2.col" />
+	
+	<file src="models/Luk_Esta.dff" />
+    <file src="models/Luk_Esta.txd" />
+    <file src="models/Luk_Esta.col" />
+	
+	
+	
+    
+    
+
+    
+    
+</meta>

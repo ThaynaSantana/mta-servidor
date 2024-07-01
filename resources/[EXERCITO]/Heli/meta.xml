@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="METRALHA" type="misc" name="HELIEB" description="HELIEB" />
+     <script src="script.lua" type="client" />
+     <file src="469.txd" />
+     <file src="469.dff" />
+</meta>

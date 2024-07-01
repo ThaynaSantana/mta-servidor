@@ -1,0 +1,6 @@
+<meta>
+<file src="gfx/black.png"/>
+<file src="gfx/font.ttf"/>
+<script src="src/client.lua" type='client'/>
+<script src="src/server.lua" type="server"/>
+</meta>

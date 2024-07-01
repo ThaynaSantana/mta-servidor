@@ -1,0 +1,12 @@
+<meta>
+
+    <script src='edit.lua' type='shared' />
+    <script src='mainS.lua' type='server' />
+    <script src='mainC.lua' type='client' />
+    <script src='client.lua' type='client' />
+
+    <file src='files/Light.ttf' />
+    <file src='files/Medium.ttf' />
+    <file src='files/SemiBold.ttf' />
+
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<info author="Thayna" name="Comandos de chat" />
+	
+	<script scr="server.lua" type="server" />
+</meta>

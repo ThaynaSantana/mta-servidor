@@ -1,0 +1,6 @@
+<meta>
+    <info author="[GT]zorrigas" description="OldGarage SF | This work is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License" version="1.0" type="script" />
+    <script src="mod.lua" type="client" />
+    <file src="record.txd" />
+
+</meta>

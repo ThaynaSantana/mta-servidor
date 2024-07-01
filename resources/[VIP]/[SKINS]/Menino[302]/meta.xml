@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="SAMURAI" type="misc" name="BYSAMURAI" description="BYSAMURAI" />
+     <script src="script.lua" type="client" />
+     <file src="SAMURAI.txd" />
+     <file src="SAMURAI.dff" />
+</meta>

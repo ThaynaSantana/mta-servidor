@@ -1,0 +1,130 @@
+<meta>
+	<info author="N3xT" />
+
+	<script src="config.lua" type="shared" cache="false" />
+
+	<script src="files/lib/dxGrid.lua" type="client" cache="false" />
+
+	<script src="files/mainC.lua" type="client" cache="false" />
+	<script src="files/mainS.lua" type="server" cache="false" />
+	
+	<script src="files/util/utilC.lua" type="client" cache="false" />
+	<script src="files/util/utilS.lua" type="server" cache="false" />
+
+	<script src="use.lua" type="server" cache="false" />
+	<script src="files/open.lua" type="server" cache="false" />
+
+	<!-- Utilitários -->
+	<script src="files/others/loja_utilitarios/mainC.lua" type="client" cache="false" />
+	<script src="files/others/loja_utilitarios/mainS.lua" type="server" cache="false" />
+
+	<file src="files/gfx/utilities/bandagem.png" cache="false" />
+	<file src="files/gfx/utilities/colete.png" cache="false" />
+	<file src="files/gfx/utilities/gasolina.png" cache="false" />
+	<file src="files/gfx/utilities/medkit.png" cache="false" />
+	<file src="files/gfx/utilities/militec.png" cache="false" />
+	<file src="files/gfx/utilities/mira.png" cache="false" />
+	<file src="files/gfx/utilities/mochila.png" cache="false" />
+	<file src="files/gfx/utilities/repairkit.png" cache="false" />
+	<file src="files/gfx/utilities/pa.png" cache="false" />
+
+	
+	<!-- Negro -->
+	<script src="files/others/mercado_negro/mainC.lua" type="client" cache="false" />
+	<script src="files/others/mercado_negro/mainS.lua" type="server" cache="false" />
+
+	<file src="files/gfx/black/algemas.png" cache="false" />
+
+	<file src="files/gfx/black/capuz.png" cache="false" />
+
+
+	<!-- Assalto -->
+	
+	<!-- Drogas -->
+	<script src="files/others/drogas/mainC.lua" type="client" cache="false" />
+	<script src="files/others/drogas/mainS.lua" type="server" cache="false" />
+
+	<file src="files/gfx/drugs/fertilizante.png" cache="false" />
+	<file src="files/gfx/drugs/smaconha.png" cache="false" />
+	<file src="files/gfx/drugs/cocaina.png" cache="false" />
+	<file src="files/gfx/drugs/fmaconha.png" cache="false" />
+	
+	<!-- Armas -->
+	<script src="files/others/armas/mainC.lua" type="client" cache="false" />
+	<script src="files/others/armas/mainS.lua" type="server" cache="false" />
+
+	<file src="files/gfx/weapons/WEAPON_GLOCK.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_38.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_MP5.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_AK47.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_AR15.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_DOZE.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_AR10.png" cache="false" />
+	<file src="files/gfx/weapons/WEAPON_TASER.png" cache="false" />
+
+	<file src="files/gfx/weapons/municao9mm.png" cache="false" />
+	<file src="files/gfx/weapons/municao556.png" cache="false" />
+	<file src="files/gfx/weapons/municao762.png" cache="false" />
+	<file src="files/gfx/weapons/municaosnip.png" cache="false" />
+	<file src="files/gfx/weapons/cartucho12.png" cache="false" />
+
+	<!-- Dinheiro Sujo -->
+	<script src="files/others/dinheiro_sujo/mainC.lua" type="client" cache="false" />
+	<script src="files/others/dinheiro_sujo/mainS.lua" type="server" cache="false" />
+
+	<!-- Porta Malas -->
+	<script src="files/others/porta_malas/mainC.lua" type="client" cache="false" />
+	<script src="files/others/porta_malas/mainS.lua" type="server" cache="false" />
+
+	<file src="files/sfx/door.mp3" cache="false" />
+
+	<!-- Algemas & Capuz -->
+	<script src="files/others/algemas_capuz/mainC.lua" type="client" cache="false" />
+	<script src="files/others/algemas_capuz/mainS.lua" type="server" cache="false" />
+
+    <!-- Armas Fabrica -->
+    <file src="files/gfx/others/gatilho.png" cache="false" />
+    <file src="files/gfx/others/capsulas.png" cache="false" />
+    <file src="files/gfx/others/polvora.png" cache="false" />
+    <file src="files/gfx/others/placa-metal.png" cache="false" />
+    <file src="files/gfx/others/molas.png" cache="false" />
+    <file src="files/gfx/others/corpo-ak47.png" cache="false" />
+    <file src="files/gfx/others/corpo-glock.png" cache="false" />
+    <file src="files/gfx/others/corpo-magnum44.png" cache="false" />
+    <file src="files/gfx/others/corpo-m4.png" cache="false" />
+    <file src="files/gfx/others/corpo-mp5.png" cache="false" />
+	<file src="files/gfx/others/pulmao.png" cache="false" />
+
+	<!-- Baú -->
+	<script src="files/others/bau/mainC.lua" type="client" cache="false" />
+	<script src="files/others/bau/mainS.lua" type="server" cache="false" />
+
+	<!-- Outros -->
+	<script src="files/save.lua" type="server" cache="false" />
+
+	<file src="files/font/font1.ttf" cache="false" />
+	<file src="files/font/font2.ttf" cache="false" />
+	
+
+	<file src="files/gfx/others/buttonbg.png" cache="false" />
+	<file src="files/gfx/others/dinheirosujo.png" cache="false" />
+	<file src="files/gfx/others/seta.png" cache="false" />
+	<file src="files/gfx/others/eff_drogas.png" cache="false" />
+	<file src="files/gfx/others/eff_drogas2.png" cache="false" />
+	<file src="files/gfx/others/radio.png" cache="false" />
+	<file src="files/gfx/others/basebau.png" cache="false" />
+	
+
+
+
+	<file src="files/fx/texreplace.fx" type="server" />
+	
+	<export function="getSpaceMochila" type="server" />
+	<export function="isItemEquipped" type="server" />
+	<export function="getItem" type="server" />
+	<export function="giveItem" type="server" />
+	<export function="giveItemS" type="server" />
+	<export function="takeItem" type="server" />
+	<export function="takeItemS" type="server" />
+	<export function="getAllItens" type="server" />
+</meta>

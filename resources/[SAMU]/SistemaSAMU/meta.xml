@@ -1,0 +1,10 @@
+<meta>
+		<info author="GFORCE STORE / BR DANIELGAMER" version="1.0.0" name="Sistema do SAMU" />
+	    <file src="font/fonte.ttf" />	
+	    <file src="images/hp.png" />
+		<script src="config/settingS.lua" type="server" />
+		<script src="config/settingC.lua" type="client" cache="false" />
+		<file src="shaders/old_film.fx" type="client" cache="false" />
+		<script src="server.lua" type="server" />
+		<script src="client.lua" type="client"  cache="false" />
+</meta>

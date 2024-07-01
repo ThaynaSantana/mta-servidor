@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<meta>
+     <info author="METRALHA" type="misc" name="SKINEB3" description="SKINEB3" />
+     <script src="script.lua" type="client" />
+     <file src="165.txd" />
+     <file src="165.dff" />
+</meta>

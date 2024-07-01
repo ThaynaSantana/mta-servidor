@@ -1,0 +1,65 @@
+<meta>
+    <script src="gJoao.lua" type="shared" cache="false" />
+    <script src="cJoao.lua" type="client" cache="false" />
+    <script src="sJoao.lua" type="server" />
+    <export function="getNameVehicle" type="shared" />
+
+    <file src="files/fonts/Roboto-Medium.ttf" />
+    <file src="files/fonts/Roboto-Regular.ttf" />
+    <file src="files/fonts/Roboto-Bold.ttf" />
+    <file src="files/fonts/Roboto-Light.ttf" />
+    <file src="files/fonts/Roboto-Black.ttf" />
+    
+    <file src="files/imgs/background.png" />
+    <file src="files/imgs/cage.png" />
+    <file src="files/imgs/cage_select.png" />
+    <file src="files/imgs/color.png" />
+    <file src="files/imgs/color_select.png" />
+    <file src="files/imgs/comprar.png" />
+    <file src="files/imgs/comprar_select.png" />
+    <file src="files/imgs/confirmar.png" />
+    <file src="files/imgs/confirmar_select.png" />
+    <file src="files/imgs/corlataria.png" />
+    <file src="files/imgs/base_confirmar.png" />
+    <file src="files/imgs/base_garagem.png" />
+    <file src="files/imgs/bar.png" />
+    <file src="files/imgs/boll.png" />
+    <file src="files/imgs/slot.png" />
+    <file src="files/imgs/slot_select.png" />
+    <file src="files/imgs/slot_mouse.png" />
+    <file src="files/imgs/cart.png" />
+    <file src="files/imgs/pin.png" />
+    <file src="files/imgs/button.png" />
+    <file src="files/imgs/bar_scroll.png" />
+    <file src="files/imgs/background_sub.png" />
+    <file src="files/imgs/base_sub.png" />
+    <file src="files/imgs/base_venda.png" />
+    <file src="files/imgs/vender.png" />
+    <file src="files/imgs/vender_select.png" />
+    <file src="files/imgs/elipse.png" />
+    <file src="files/imgs/elipse_select.png" />
+    <file src="files/imgs/notselect.png" />
+    <file src="files/imgs/notselect_select.png" />
+    <file src="files/imgs/detran/base_detran_imp.png" />
+    <file src="files/imgs/detran/cage.png" />
+    <file src="files/imgs/detran/cage_select.png" />
+    <file src="files/imgs/detran/pagar.png" />
+    <file src="files/imgs/detran/pagar_select.png" />
+    <file src="files/imgs/detran/bar.png" />
+    <file src="files/imgs/detran/base_veiculos.png" />
+    <file src="files/imgs/detran/recuperar.png" />
+    <file src="files/imgs/detran/recuperar_select.png" />
+    <file src="files/imgs/detran/emplacar.png" />
+    <file src="files/imgs/detran/emplacar_select.png" />
+    <file src="files/imgs/detran/pagarseguro.png" />
+    <file src="files/imgs/detran/pagarseguro_select.png" />
+    <file src="files/imgs/slot/base.png" />
+
+
+
+    <export function="isVehicleFromConce" type="server" />
+    <export function="getCarProx" type="server" />
+    <export function="getVehicleCar2" type="server" />   
+  
+    <min_mta_version server="1.5.4-9.11342" />
+</meta>
